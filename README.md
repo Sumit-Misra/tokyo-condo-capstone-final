@@ -236,8 +236,9 @@ These flags highlight transactions worth investigating further. They do not, on 
 - [Final capstone report (Word document)](reports/Capstone_Final_Report.docx)
 
 **Additional project materials**
-- Final capstone report (Word document).
-- Initial Module 20.1 report: [Tokyo Condo Capstone EDA](https://github.com/Sumit-Misra/tokyo-condo-capstone-eda).
+
+- [Final capstone report (Word document)](reports/Capstone_Final_Report.docx)
+- Initial Module 20.1 report: [Tokyo Condo Capstone EDA](https://github.com/Sumit-Misra/tokyo-condo-capstone-eda)
 
 **Repository structure**
 
